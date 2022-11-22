@@ -1,0 +1,30 @@
+h1{
+    color: rgb(0, 204, 255);
+    text-align: center;
+}
+label{
+    font-weight: bold;
+    color: rgb(12, 23, 177)    ;
+}
+input.form-control{
+    border: 6px solid rebeccapurple;
+}
+.container1{
+    text-align: center;
+}
+ol li{
+    margin-left: 45%;
+    width: 100px;
+    text-align: left;
+    font font-weight: border-left: ;
+}
+
+.jumbotron{
+    background-color: rgb(255, 213, 0);
+}
+body{
+    background-color: tomato;
+}
+.lead1{
+    text-shadow: -2px -3px lightgreen;
+}
